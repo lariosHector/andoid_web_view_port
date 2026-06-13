@@ -39,7 +39,7 @@ class MainActivity : ComponentActivity() {
 
                         webViewClient = WebViewClient()
 
-                        loadUrl("http://3.14.71.106:3000/index")
+                        loadUrl("http://3.14.71.106:3000")
                     }
                 }
             )
